@@ -22,6 +22,9 @@
 <!-- Optional if you have blogs -->
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Queue](https://fullyunderstood.com/queue/)
+- [Heap Sort](https://fullyunderstood.com/pseudocodes/heap-sort/)
+- [Quick Sort](https://fullyunderstood.com/pseudocodes/quick-sort/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- This section you create this variables that are used above 
