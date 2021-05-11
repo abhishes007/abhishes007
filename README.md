@@ -9,9 +9,9 @@
 - 🥅 2021 Goal - To grow my technical skillset.
 - ⚡ Fun fact - I love reading mystery novels and wuxia web-novels
 
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
-[![Abhishes's github stats](https://github-readme-stats.vercel.app/api?username=abhishes007&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+<!-- Status Card -->
+[![Abhishes's github stats](https://github-readme-stats.vercel.app/api?username=abhishes007&count_private=true&include_all_commits=true&theme=jolly)](https://fullyunderstood.com/author/abhishes-shukla/)
+
 
 <!-- ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -27,6 +27,9 @@
 - [Quick Sort](https://fullyunderstood.com/pseudocodes/quick-sort/)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- Language Card -->
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishes007&layout=compact)](https://github.com/abhishes007/github-readme-stats)
 <!-- This section you create this variables that are used above 
 [website]: https://google.com
 [twitter]: https://twitter.com/indrajeet_nikam
