@@ -22,6 +22,7 @@
 <!-- Optional if you have blogs -->
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Why do we use Docker?](https://fullyunderstood.com/docker-intro/)
 - [Queue](https://fullyunderstood.com/queue/)
 - [Heap Sort](https://fullyunderstood.com/pseudocodes/heap-sort/)
 - [Quick Sort](https://fullyunderstood.com/pseudocodes/quick-sort/)
