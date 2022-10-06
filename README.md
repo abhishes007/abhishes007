@@ -2,12 +2,12 @@
 [![Website](https://img.shields.io/badge/Co--founder%2FAuthor-%40%20fullyunderstood.com-blue)](https://fullyunderstood.com/author/abhishes-shukla/)
 
 ## Finding myself in the new world of 0's and 1's! 
-- 🔭 I’m currently working on - Developing an e-commerce website.
-- 🌱 I’m currently learning - React.
-- 👯 I’m looking to collaborate with - React newbie developers!
+- 🔭 I’m currently working on - Developing a portfolio website.
+- 🌱 I’m currently learning - React and Web3 Ecosystem.
+- 👯 I’m looking to collaborate with - Open Source Contributors.
 - 💬 Ask me about - Cypress (Automation Framework)
-- 🥅 2021 Goal - To grow my technical skillset.
-- ⚡ Fun fact - I love reading mystery novels and wuxia web-novels
+- 🥅 2022 Goal - Start Dev-Ops Journey.
+- ⚡ Fun fact - I love reading mystery novels and wuxia web-novels, anime enthusiast.
 
 <!-- Status Card -->
 [![Abhishes's github stats](https://github-readme-stats.vercel.app/api?username=abhishes007&count_private=true&include_all_commits=true&theme=jolly)](https://github.com/abhishes007)
